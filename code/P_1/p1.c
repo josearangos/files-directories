@@ -37,8 +37,6 @@ int main(int argc, char const *argv[]){
     printPermissions(info_file);
     printf("\n");
     printf("-----------------------------------------------------------------------------------------------------\n");
-        
-    
     return 0;
 }
 
